@@ -1,0 +1,8 @@
+Right Shifter Servo == D-Sidecar port 10
+
+Left Shifter Servo == D-Sidecar port 9
+
+Right Drive CIM == D-Sidecar port 8 on victor 7
+
+Left Drive CIM == D-Sidecar port 6
+
